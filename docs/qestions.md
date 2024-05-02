@@ -107,10 +107,10 @@ In Next.js, you can create reusable components by defining a React component in 
    ```
 <details>
   <summary>Do you know? 🤔</summary>
- **Rule of Componenents**
-  - Components must be capitalized
-  - Components must be in their own file
-  - Components must be imported and used in other files
-  - Components must return a single JSX element
-  - Components can accept props as arguments
+  **Rule of Componenents**
+    - Components must be capitalized
+    - Components must be in their own file
+    - Components must be imported and used in other files
+    - Components must return a single JSX element
+    - Components can accept props as arguments
 </details>
